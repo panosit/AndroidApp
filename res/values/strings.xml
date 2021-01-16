@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">It21848</string>
+    <string name="userid">Userid</string>
+    <string name="longtitude">Longtitude</string>
+    <string name="button">ADD</string>
+    <string name="button2">SHOW</string>
+    <string name="latidude">Latitude</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="button3">Result</string>
+    <string name="textview">TextView</string>
+    <string name="lol"></string>
+    <string name="txt">TextView</string>
+    <string name="newapp">NEW</string>
+</resources>
