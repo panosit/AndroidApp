@@ -33,7 +33,7 @@ public class Show extends AppCompatActivity{
         button.setOnClickListener(view->{
             useridr=userid.getText().toString();
             if(useridr.isEmpty())
-                Toast.makeText(Show.this, "PLease complete Userid and timestamp!",Toast.LENGTH_SHORT).show();
+                Toast.makeText(Show.this, "PLease complete Userid!",Toast.LENGTH_SHORT).show();
             else{
                 Intent intent=new Intent(Show.this,Result.class);
                 intent.putExtra("userid", useridr);
